@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isa</h1>
-<h3 align="center">Hi, my name is Isa Subani, I am an informatics engineering student who is very interested in the world of IT. I have special interest in Programming, Linux, Pentest, and Networking. I'm always happy to learn new things in technology and try to implement them in a simple app. I am passionate about sharing my work with others and putting it on GitHub. I also like to write about my learning experience on my personal blog.
-
-I believe that the world of IT is a very interesting field because it is always evolving and challenging. I hope to continue expanding my knowledge in technology and become an expert in this field. Thank you for listening to my short introduction.
-
-Hi, my name is Isa Subani, I am an informatics engineering student who is very interested in the world of IT. I have special interest in Programming, Linux, Pentest, and Networking. I'm always happy to learn new things in technology and try to implement them in a simple app. I am passionate about sharing my work with others and putting it on GitHub. I also like to write about my learning experience on my personal blog.
-
-I believe that the world of IT is a very interesting field because it is always evolving and challenging. I hope to continue expanding my knowledge in technology and become an expert in this field. Thank you for listening to my short introduction.</h3>
+<h3 align="center">I am a Backend Engineer with 4 years experience in application development using Java technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluex404&label=Profile%20views&color=0e75b6&style=flat" alt="fluex404" /> </p>
 
